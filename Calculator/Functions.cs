@@ -5,7 +5,7 @@ namespace Calculator
         public static int Add(int a, int b)
         {
             // add up the two numbers
-            int sum = a + b + 2;
+            int sum = a + b;
 
             return sum;
         }
