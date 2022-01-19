@@ -29,7 +29,7 @@ namespace Calculator
         public static double Divide(int a, int b)
         {
             // divide b from a
-            int quotient = a / b;
+            double quotient = (double)a / (double)b;
 
             return quotient;
         }

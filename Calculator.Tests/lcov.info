@@ -1,0 +1,110 @@
+SF:C:\Users\brownm\CalculatorDemo\Calculator\Calculator.cs
+FN:3,System.Void Program::<Main>$(System.String[])
+FNDA:0,System.Void Program::<Main>$(System.String[])
+DA:4,0
+DA:7,0
+DA:8,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:17,0
+DA:19,0
+DA:20,0
+DA:22,0
+DA:28,0
+DA:29,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:54,0
+DA:55,0
+DA:57,0
+BRDA:19,89,0,0
+BRDA:19,89,1,0
+BRDA:32,127,0,0
+BRDA:32,127,1,0
+BRDA:37,243,0,0
+BRDA:37,243,1,0
+BRDA:42,359,0,0
+BRDA:42,359,1,0
+BRDA:47,472,0,0
+BRDA:47,472,1,0
+FN:65,System.Int32 Program::<<Main>$>g__GetUserInputAsInteger|0_0(System.String)
+FNDA:0,System.Int32 Program::<<Main>$>g__GetUserInputAsInteger|0_0(System.String)
+DA:66,0
+DA:68,0
+DA:71,0
+DA:74,0
+DA:75,0
+DA:77,0
+DA:80,0
+DA:85,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:95,0
+DA:96,0
+BRDA:74,60,1,0
+BRDA:88,36,0,0
+BRDA:88,36,1,0
+BRDA:74,60,0,0
+LF:52
+LH:0
+BRF:14
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\Users\brownm\CalculatorDemo\Calculator\Functions.cs
+FN:5,System.Int32 Calculator.Functions::Add(System.Int32,System.Int32)
+FNDA:0,System.Int32 Calculator.Functions::Add(System.Int32,System.Int32)
+DA:6,0
+DA:8,0
+DA:10,0
+DA:11,0
+FN:13,System.Int32 Calculator.Functions::Subtract(System.Int32,System.Int32)
+FNDA:0,System.Int32 Calculator.Functions::Subtract(System.Int32,System.Int32)
+DA:14,0
+DA:16,0
+DA:18,0
+DA:19,0
+FN:21,System.Int32 Calculator.Functions::Multiply(System.Int32,System.Int32)
+FNDA:0,System.Int32 Calculator.Functions::Multiply(System.Int32,System.Int32)
+DA:22,0
+DA:24,0
+DA:26,0
+DA:27,0
+FN:29,System.Double Calculator.Functions::Divide(System.Int32,System.Int32)
+FNDA:0,System.Double Calculator.Functions::Divide(System.Int32,System.Int32)
+DA:30,0
+DA:32,0
+DA:34,0
+DA:35,0
+LF:16
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record

@@ -22,6 +22,7 @@ while (true)
         break;
     }
 
+
     // if we get to here, that means the user didn't choose the exit option
     // so ask for two numbers
     int firstNumber = GetUserInputAsInteger("Enter the first number and press enter: ");
