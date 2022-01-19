@@ -11,4 +11,7 @@
       <_Parameter1>$(MSBuildProjectName).UnitTests</_Parameter1>
     </AssemblyAttribute>
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ReportGenerator" Version="5.0.2" />
+  </ItemGroup>
 </Project>

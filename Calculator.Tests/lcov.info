@@ -78,33 +78,33 @@ FNH:0
 end_of_record
 SF:C:\Users\brownm\CalculatorDemo\Calculator\Functions.cs
 FN:5,System.Int32 Calculator.Functions::Add(System.Int32,System.Int32)
-FNDA:0,System.Int32 Calculator.Functions::Add(System.Int32,System.Int32)
-DA:6,0
-DA:8,0
-DA:10,0
-DA:11,0
+FNDA:5,System.Int32 Calculator.Functions::Add(System.Int32,System.Int32)
+DA:6,5
+DA:8,5
+DA:10,5
+DA:11,5
 FN:13,System.Int32 Calculator.Functions::Subtract(System.Int32,System.Int32)
-FNDA:0,System.Int32 Calculator.Functions::Subtract(System.Int32,System.Int32)
-DA:14,0
-DA:16,0
-DA:18,0
-DA:19,0
+FNDA:6,System.Int32 Calculator.Functions::Subtract(System.Int32,System.Int32)
+DA:14,6
+DA:16,6
+DA:18,6
+DA:19,6
 FN:21,System.Int32 Calculator.Functions::Multiply(System.Int32,System.Int32)
-FNDA:0,System.Int32 Calculator.Functions::Multiply(System.Int32,System.Int32)
-DA:22,0
-DA:24,0
-DA:26,0
-DA:27,0
+FNDA:3,System.Int32 Calculator.Functions::Multiply(System.Int32,System.Int32)
+DA:22,3
+DA:24,3
+DA:26,3
+DA:27,3
 FN:29,System.Double Calculator.Functions::Divide(System.Int32,System.Int32)
-FNDA:0,System.Double Calculator.Functions::Divide(System.Int32,System.Int32)
-DA:30,0
-DA:32,0
-DA:34,0
-DA:35,0
+FNDA:6,System.Double Calculator.Functions::Divide(System.Int32,System.Int32)
+DA:30,6
+DA:32,6
+DA:34,6
+DA:35,6
 LF:16
-LH:0
+LH:16
 BRF:0
 BRH:0
 FNF:4
-FNH:0
+FNH:4
 end_of_record
