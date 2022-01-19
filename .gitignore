@@ -454,4 +454,5 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 ##Coverage Reports
-Calculator.Tests\coveragereport
+Calculator.Tests/coveragereport
+Calculator.Tests/lcov.info

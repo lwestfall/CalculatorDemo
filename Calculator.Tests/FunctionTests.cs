@@ -6,7 +6,7 @@ using static Calculator.Functions;
 public class FunctionTests
 {
     // good tests are split into the Three A's: Arrange, Act, and Assert
-    
+
     [Test]
     [TestCase(5, 4, 9)]    // Big positive number first, Small positive number second
     [TestCase(4, 6, 10)]  //Small positive number, Big positive Number
@@ -74,6 +74,6 @@ public class FunctionTests
         var actualQuotient = Divide(a, b);
 
         // assert
-        Assert.AreEqual(expectedQuotient, actualQuotient, 2);
+        Assert.AreEqual(expectedQuotient, actualQuotient, 1e-2);
     }
 }
